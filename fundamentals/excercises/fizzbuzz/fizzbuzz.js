@@ -1,3 +1,4 @@
+// this is fizzbuzz
 for (let n=1; n<=100; n++)
 {
 	let output="";
